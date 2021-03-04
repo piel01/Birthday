@@ -7,3 +7,9 @@
     color: crimson;
     font-size: bold;
 }
+body{
+    background-image: url(./birhday.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
